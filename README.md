@@ -24,5 +24,5 @@ pip install flask flask-cors SPARQLWrapper
 pip install requests python-dotenv
 python app.py
 
-
+Contact me to turn on the GraphDB End Point
 The GRAPH DB endpoint hosted URL is - http://40.80.158.170:7200/
