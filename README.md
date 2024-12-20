@@ -1,4 +1,4 @@
-![ArtTrack Logo](https://github.com/rachitkulkarni9/ArtTrack/blob/main/ArtTrack-Git.webp)
+![ArtTrack Logo](ArtTrack.jpg)
 
 # Prerequisites
 Pre Installed Chocolatey Should be Removed
