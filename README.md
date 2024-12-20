@@ -1,7 +1,8 @@
-# README
+![ArtTrack Logo](https://github.com/rachitkulkarni9/ArtTrack/blob/main/ArtTrack-Git.webp)
 
 # Prerequisites
 Pre Installed Chocolatey Should be Removed
+
 
 
 # NODE INSTALLATION STEPS
