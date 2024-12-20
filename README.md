@@ -9,7 +9,6 @@ Install Node - https://nodejs.org/en/download/prebuilt-installer. This included 
 Complete Installation Process(check box Automatically install necessary tool while installing)
 In Windows PowerShell complete the setup for node.
 
-# Git Clone - https://github.com/rachitkulkarni9/artTrack_Team15.git
 cd to art-track\src folder
 
 run 
