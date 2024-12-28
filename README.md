@@ -28,4 +28,4 @@ Contact me to turn on the GraphDB End Point
 The GRAPH DB endpoint hosted URL is - http://40.80.158.170:7200/  ( contact for changes )
 
 
-![](https://komarev.com/ghpvc/?rachitkulkarni9&color=green)
+![Profile Views](https://komarev.com/ghpvc/?rachitkulkarni9&color=green)
