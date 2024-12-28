@@ -17,7 +17,7 @@ npm install ( Takes a while to complete )
 npm start(this will open the webapp). The homepage of the website will appear on the homepage
 
 # Open the new terminal for backend
-C:\artTrack_Team15\art-track\backend
+C:\ArtTrack\art-track\backend
 
 run these commands
 pip install flask flask-cors SPARQLWrapper
@@ -28,4 +28,5 @@ Contact me to turn on the GraphDB End Point
 The GRAPH DB endpoint hosted URL is - http://40.80.158.170:7200/  ( contact for changes )
 
 
-![Profile Views](https://komarev.com/ghpvc/?rachitkulkarni9&color=green)
+![Visitor Count](https://profile-counter.glitch.me/{rachitkulkarni9}/count.svg)
+
