@@ -24,7 +24,7 @@ const Test = () => {
         </Link>
       </div>
       <footer className="footer">
-        <p>Made with ❤️ by Team 15</p>
+        <p>Made with ❤️ by Rachit Girish Kulkarni</p>
       </footer>
     </div>
   );
